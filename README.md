@@ -26,7 +26,7 @@ macOS 螢幕標註工具，靈感來自 Windows PowerToys 的 Screen Ruler / Ann
 ### 方法二：從源碼編譯
 
 ```bash
-git clone https://github.com/你的用戶名/pen.git
+git clone https://github.com/cwng2022/pen.git
 cd pen
 xcodebuild -project pen.xcodeproj -scheme pen -configuration Release build
 ```
